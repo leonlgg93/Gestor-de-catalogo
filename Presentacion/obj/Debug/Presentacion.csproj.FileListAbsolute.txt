@@ -1,0 +1,17 @@
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\obj\Debug\Presentacion.frmCatalogo.resources
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\bin\Debug\Presentacion.exe
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\bin\Debug\Presentacion.pdb
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\bin\Debug\dominio.dll
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\bin\Debug\negocio.dll
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\bin\Debug\dominio.pdb
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\bin\Debug\negocio.pdb
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\obj\Debug\Presentacion.exe
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\obj\Debug\Presentacion.pdb
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\obj\Debug\Presentacion.frmAltaArticulo.resources
+D:\Users\Leandro\Desktop\TPFinalNivel2_GomezGarcia\Presentacion\obj\Debug\Presentacion.frmDetallesArticulo.resources
